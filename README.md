@@ -19,6 +19,7 @@ yarn test
 ```
 
 If everything is set up _correctly_, you should see your app like this:
+
 <img src="./screenshots/screenshot.png" width="250">
 
 ## Information
